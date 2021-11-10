@@ -24,7 +24,7 @@ export default {
     //Line 2 For Header
     "products, brands,",
     //Line 3 For Header
-    "and experience",
+    "and experiences",
   ],
   //   Header Paragraph
   headerParagraph:

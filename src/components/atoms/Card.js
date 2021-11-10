@@ -3,10 +3,10 @@ import React from "react"
 const Card = ({ heading, paragraph, imgUrl, projectLink }) => {
   return (
     <div
-      className="card"
+      className="card" id="card"
       style={{
         backgroundImage:
-          "linear-gradient(to bottom, rgba(245, 246, 252, 0), rgba(0, 0, 0, 0.2)),url(" +
+          "linear-gradient(to bottom, rgba(245, 246, 252, 0), rgba(0, 0, 0, .2)),url(" +
           imgUrl +
           ")",
       }}
