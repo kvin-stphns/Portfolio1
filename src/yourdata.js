@@ -41,7 +41,7 @@ export default {
     {
       title: "UX/UI", //Project Title - Add Your Project Title Here
       para:
-        "The world’s first full-stack creative-directory hosting exclusively black talent, products and services.", // Add Your Service Type Here
+        "A collection of design projects. Design is my strong suite and I have done work for a variety of companies and clients.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2370&q=80",
@@ -137,7 +137,7 @@ export default {
   aboutParaTwo:
     "I am a Parsons School of Design Alumni where I majored in Strategic Design & Management. My program allowed me to hone my design skills in creative strategy and business, providing vital structure and support. It was there I improved my collaborative competency through navigating team projects while gaining a new perspective on the nuances involved in the field.",
   aboutParaThree:
-    "My last few months have been incredibly eye-opening, exploring educational avenues within my field, while soaking up tons of valuable information during this pandemic. I'll make a great addition to your team! Hope to connect soon!",
+    "My last few months have been incredibly eye-opening, exploring educational avenues within my field, while soaking up tons of valuable information during this pandemic. I'll make a great addition to your team. Hope to connect soon!",
   aboutImage:
     "https://i.ibb.co/dGMP2nM/moji.png",
 
