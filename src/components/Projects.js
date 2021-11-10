@@ -4,18 +4,18 @@ import Fade from "react-reveal/Fade"
 
 import data from "../yourdata"
 
-const Work = () => {
+const Projects = () => {
   return (
-    <div className="section" id="work">
+    <div className="section" id="projects">
       <div className="container">
         <div className="work-wrapper">
           <Fade bottom>
-            <h1>Work</h1>
+            <h1>Projects</h1>
           </Fade>
 
           <div className="grid">
             <Fade bottom cascade>
-              {data.work.map((project, index) => (
+              {data.projects.map((project, index) => (
                 <Card
                   key={index}
                   heading={project.title}
@@ -32,4 +32,4 @@ const Work = () => {
   )
 }
 
-export default Work
+export default Projects
