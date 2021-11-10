@@ -46,7 +46,7 @@ export default {
       imageSrc:
         "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2370&q=80",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://kev.cargo.site/Alkebulan",
     },
     {
       title: "LOGOS", //Project Title - Add Your Project Title Here
@@ -56,17 +56,17 @@ export default {
       imageSrc:
         "https://freight.cargo.site/w/400/q/75/i/b0f9141a2c7a1e06d9c546dfe2c342e58a82dd4822a96ccd51a6ea0e631de8b2/logos-for-portfolio.jpg",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://kev.cargo.site/Logos",
     },
     {
       title: "ADVERTISEMENTS", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "A collection of advertisments I designed for various projects, companies, or clients.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://freight.cargo.site/w/800/q/75/i/49bc7b3e8fe3ea016a63949a0439c8a525d20bcb27ab2908c2bf8f48c3c198ec/titos.jpg",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://kev.cargo.site/Advertisements",
     },
     
 
@@ -94,7 +94,7 @@ export default {
       imageSrc:
         "https://freight.cargo.site/w/800/q/75/i/a6ac1c492fa9f41c9a22151fe8e6dee326db47ddd8c7885dcc2d29336641a122/Stephens_Kevin-1-1.png",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://kev.cargo.site/Alkebulan",
     },
     {
       title: "Nowhere", //Project Title - Add Your Project Title Here
@@ -104,7 +104,7 @@ export default {
       imageSrc:
         "https://freight.cargo.site/w/900/q/75/i/a91cc24ab1b7be78781994880b725f2810664219c8a4ae86cecd78e700418e18/Trailer_pop-up_Final_2_2020-Apr-30_02-31-19AM-000_CustomizedView34922190955.png",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://kev.cargo.site/Nowhere",
     },
     {
       title: "Covid-19 Care Package", //Project Title - Add Your Project Title Here
@@ -114,7 +114,7 @@ export default {
       imageSrc:
         "https://freight.cargo.site/w/400/q/75/i/750d351bd0f6ad1fec04ab5484e952e47063f17413454f390bcb14a51ff12233/Screen-Shot-2021-03-08-at-2.55.29-AM.png",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://kev.cargo.site/Creative-Care-Package",
     },
     
 
