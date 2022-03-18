@@ -49,14 +49,14 @@ export default {
       url: "https://kev.cargo.site/Alkebulan",
     },
     {
-      title: "LOGOS", //Project Title - Add Your Project Title Here
+      title: "WEBSITES", //Project Title - Add Your Project Title Here
       para:
-        "A collection of logos I have designed using Adobe Photoshop and illustrator.", // Add Your Service Type Here
+        "A few examples of websites that I have designed from the ground up and deployed", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://freight.cargo.site/w/400/q/75/i/b0f9141a2c7a1e06d9c546dfe2c342e58a82dd4822a96ccd51a6ea0e631de8b2/logos-for-portfolio.jpg",
+        "https://freight.cargo.site/t/original/i/c14000defeb65dd4b881b2d4b64ff3233f9f09510d8ffea2fcf69f1b119d0a59/Screen-Shot-2022-03-18-at-4.53.59-PM.png",
       //Project URL - Add Your Project Url Here
-      url: "https://kev.cargo.site/Logos",
+      url: "https://kev.cargo.site/Websites",
     },
     {
       title: "ADVERTISEMENTS", //Project Title - Add Your Project Title Here
