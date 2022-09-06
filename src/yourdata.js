@@ -46,7 +46,7 @@ export default {
       imageSrc:
         "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2370&q=80",
       //Project URL - Add Your Project Url Here
-      url: "https://kev.cargo.site/Alkebulan",
+      url: "https://kevinstephens.notion.site/kevinstephens/Portfolio-747b27d3451a4bbe99d4ca8b7e25aa32?p=1243a386de4141b2b73690833ca8b51b&pm=c",
     },
     {
       title: "WEBSITES", //Project Title - Add Your Project Title Here
@@ -56,7 +56,7 @@ export default {
       imageSrc:
         "https://freight.cargo.site/t/original/i/c14000defeb65dd4b881b2d4b64ff3233f9f09510d8ffea2fcf69f1b119d0a59/Screen-Shot-2022-03-18-at-4.53.59-PM.png",
       //Project URL - Add Your Project Url Here
-      url: "https://kev.cargo.site/Websites",
+      url: "https://kevinstephens.notion.site/85bfe0f7d0d0415d8e1a8ba20bdd7b42?v=a93479f89e0d4ab899391fb1560db471",
     },
     {
       title: "ADVERTISEMENTS", //Project Title - Add Your Project Title Here
@@ -66,7 +66,7 @@ export default {
       imageSrc:
         "https://freight.cargo.site/w/800/q/75/i/49bc7b3e8fe3ea016a63949a0439c8a525d20bcb27ab2908c2bf8f48c3c198ec/titos.jpg",
       //Project URL - Add Your Project Url Here
-      url: "https://kev.cargo.site/Advertisements",
+      url: "https://kevinstephens.notion.site/6167edff0b5748b599bddf23adcedbfa?v=f3528cc6d2834fbbafdff9a1d0ae55d6",
     },
     
 
@@ -94,7 +94,7 @@ export default {
       imageSrc:
         "https://freight.cargo.site/w/800/q/75/i/a6ac1c492fa9f41c9a22151fe8e6dee326db47ddd8c7885dcc2d29336641a122/Stephens_Kevin-1-1.png",
       //Project URL - Add Your Project Url Here
-      url: "https://kev.cargo.site/Alkebulan",
+      url: "https://kevinstephens.notion.site/kevinstephens/Portfolio-747b27d3451a4bbe99d4ca8b7e25aa32?p=1243a386de4141b2b73690833ca8b51b&pm=c",
     },
     {
       title: "Nowhere", //Project Title - Add Your Project Title Here
@@ -104,7 +104,7 @@ export default {
       imageSrc:
         "https://freight.cargo.site/w/900/q/75/i/a91cc24ab1b7be78781994880b725f2810664219c8a4ae86cecd78e700418e18/Trailer_pop-up_Final_2_2020-Apr-30_02-31-19AM-000_CustomizedView34922190955.png",
       //Project URL - Add Your Project Url Here
-      url: "https://kev.cargo.site/Nowhere",
+      url: "https://kevinstephens.notion.site/kevinstephens/Portfolio-747b27d3451a4bbe99d4ca8b7e25aa32?p=2883aa398ef945e196523dd5b6d18ed7&pm=c",
     },
     {
       title: "Covid-19 Care Package", //Project Title - Add Your Project Title Here
@@ -114,7 +114,7 @@ export default {
       imageSrc:
         "https://freight.cargo.site/w/400/q/75/i/750d351bd0f6ad1fec04ab5484e952e47063f17413454f390bcb14a51ff12233/Screen-Shot-2021-03-08-at-2.55.29-AM.png",
       //Project URL - Add Your Project Url Here
-      url: "https://kev.cargo.site/Creative-Care-Package",
+      url: "https://kevinstephens.notion.site/kevinstephens/Portfolio-747b27d3451a4bbe99d4ca8b7e25aa32?p=5c46bf23bf104090992698fb0fbf2d76&pm=c",
     },
     
 
