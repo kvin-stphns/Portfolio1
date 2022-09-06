@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Kevin's Portfolio`,
+    title: `Welcome!`,
     description: `I am a multidisciplinary designer, developer, & creative strategist, who loves to make an impact, open to new opportunities and projects!`,
     author: `Kevin`,
   },
