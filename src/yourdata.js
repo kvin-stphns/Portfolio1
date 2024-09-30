@@ -132,6 +132,8 @@ export default {
   // End Projects Section -----------------------
 
   // About Secton --------------
+  aboutParaZero:
+    "At the Intersection of Design and Technology",
   aboutParaOne:
     "Hello, I'm Kevin Stephens – a digital alchemist where creativity meets code.",
   aboutParaTwo:
