@@ -133,11 +133,19 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "Design is my strongest passion & it’s what I live and breathe every day. I have made significant strides in developing my skills, educating myself about design thinking, brand identity, and visual storytelling. On top of that, I built proficiency in various design tools, techniques and consulting, which plays an essential role in my professional development. My specialties include design strategy as well as visual graphics, logos, and websites using Adobe’s design software suite and other various design tools.",
+    "Hello, I'm Kevin Stephens – a digital alchemist where creativity meets code.",
   aboutParaTwo:
-    "I am a Parsons School of Design Alumni where I majored in Strategic Design & Management. My program allowed me to hone my design skills in creative strategy and business, providing vital structure and support. It was there I improved my collaborative competency through navigating team projects while gaining a new perspective on the nuances involved in the field.",
+    "With a palette that includes both pixels and algorithms, I craft digital experiences that are not just visually stunning, but intelligently functional. My journey began in the halls of Parsons School of Design, where I honed my eye for aesthetics and strategic thinking. But my curiosity didn't stop there – I dove headfirst into the world of computer science, currently pursuing an MSc to deepen my technical prowess.",
   aboutParaThree:
-    "My last few months have been incredibly eye-opening, exploring educational avenues within my field, while soaking up tons of valuable information during this pandemic. I'll make a great addition to your team. Hope to connect soon!",
+    "As a creative developer with a designer's roots, I don't just build websites; I create digital ecosystems. From leading a complete website overhaul as Chief Innovation Officer to boosting brand visibility on Amazon as a Creative Marketing Specialist, I've worn many hats – each adding a unique perspective to my craft.",
+  aboutParaFour:
+    "My toolbox is diverse: Adobe Creative Suite for visual magic, React for seamless interactivity, and data analytics for informed decision-making. But my most powerful tool? The ability to see the big picture while obsessing over the tiniest details.",
+  aboutParaFive:
+    "I believe in design that doesn't just look good, but feels right. User-centric, intuitive, and with a dash of the unexpected – that's my signature style. Whether I'm crafting a brand's visual identity or optimizing a user's journey through a web application, I'm always asking: 'How can this be not just better, but revolutionary?'",
+  aboutParaSix:
+    "When I'm not immersed in design or debugging code, you might find me exploring the latest in AI and machine learning, or sketching ideas for my next big project. I'm constantly evolving, always learning, and forever fascinated by the endless possibilities at the intersection of design and technology.",
+  aboutParaSeven:
+    "Let's create something extraordinary together.",
   aboutImage:
     "https://i.ibb.co/dGMP2nM/moji.png",
 
@@ -148,37 +156,37 @@ export default {
   //   Import Icons from the top and link it here
 
   skills: [
-    {
-      img: htmlIcon,
-      para:
-        "I have experience with HTML5. I have worked on a variety of projects utilizing bootstrap to create landing pages and multipage websites.",
-    },
-    {
-      img: cssIcon,
-      para:
-        "I have experience with CSS & SCSS. I have style many projects utilizing flex and grid systems for layout as well and I’m proficient with color and typography.",
-    },
-    {
-      img: jsIcon,
-      para:
-        "I have experience with vanilla Javascript as well as more advanced Javascript libraries. Many of the projects I’ve worked on use Javascript.",
-    },
-    {
-      img: reactIcon,
-      para:
-        "I have experience with React using Create-React-app as well as the GatsbyJS framework. I focus on using React for most of my front-end projects.",
-    },
-    {
-      img: designIcon,
-      para:
-        "Design is my specialty! I use a variety of Design tools like Figma and Adobe for prototyping and graphics. Other skills include design strategy and design research.",
-    },
-    {
-      img: codeIcon,
-      para:
-        "Building my development skills! I am learning a variety of languages and frameworks in a full-stack development bootcamp.",
-    },
-  ],
+{
+img: htmlIcon,
+para:
+"Proficient in HTML5, I craft structured, semantic markup for robust web foundations. My projects range from responsive landing pages to complex multi-page websites, leveraging Bootstrap for efficient, mobile-first development.",
+},
+{
+img: cssIcon,
+para:
+"Expert in CSS and SCSS, I create visually stunning and responsive layouts using advanced flex and grid systems. My strong eye for design ensures pixel-perfect implementations of color schemes and typography, elevating user experiences.",
+},
+{
+img: jsIcon,
+para:
+"Adept in both vanilla JavaScript and cutting-edge libraries, I bring interactivity and dynamism to web applications. My projects showcase a deep understanding of JS, from DOM manipulation to complex asynchronous operations.",
+},
+{
+img: reactIcon,
+para:
+"Specializing in React, I build efficient, scalable front-end solutions using Create-React-App, GatsbyJS, and NextJS. My focus on React ensures high-performance, component-based architectures for modern web applications.",
+},
+{
+img: designIcon,
+para:
+"Design is my superpower! I wield tools like Figma and Adobe Creative Suite to breathe life into ideas, creating stunning prototypes and graphics. My expertise extends to strategic design thinking and user-centric research methodologies.",
+},
+{
+img: codeIcon,
+para:
+"Continuously expanding my development toolkit, I'm immersing myself in a full-stack bootcamp. This journey is equipping me with a diverse array of languages and frameworks, enhancing my ability to create comprehensive web solutions.",
+},
+],
 
   // End Skills Section --------------------------
 
@@ -191,7 +199,7 @@ export default {
 
   //   Contact Section --------------
 
-  contactSubHeading: "Open to full-time opportunites & freelance projects. Let's connect!",
+  contactSubHeading: "Ready to bring your vision to life? Let's connect and make digital magic happen.",
   social: [
     // Add Or Remove The Link Accordingly
     { img: githubIcon, url: "https://github.com/kvin-stphns" },

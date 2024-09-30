@@ -9,7 +9,7 @@ const About = () => {
         <div className="about-section">
           <div className="content">
             <Fade bottom cascade>
-              <h1>About Me</h1>
+              <h1>At the Intersection of Design and Technology</h1>
             </Fade>
             <p>
               {data.aboutParaOne}
@@ -19,6 +19,18 @@ const About = () => {
               <br></br>
               <br></br>
               {data.aboutParaThree}
+              <br></br>
+              <br></br>
+              {data.aboutParaFour}
+              <br></br>
+              <br></br>
+              {data.aboutParaFive}
+              <br></br>
+              <br></br>
+              {data.aboutParaSix}
+              <br></br>
+              <br></br>
+              {data.aboutParaSeven}
             </p>
           </div>
           <div className="image-wrapper">
