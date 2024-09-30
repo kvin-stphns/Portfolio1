@@ -1,3 +1,9 @@
+const crypto = require('crypto');
+
+crypto.createHash = (algorithm) => {
+  return crypto.createHash(algorithm === 'md4' ? 'sha256' : algorithm);
+};
+
 module.exports = {
   siteMetadata: {
     title: `Welcome!`,
