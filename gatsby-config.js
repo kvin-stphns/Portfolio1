@@ -1,7 +1,8 @@
 const crypto = require('crypto');
+const originalCreateHash = crypto.createHash;
 
 crypto.createHash = (algorithm) => {
-  return crypto.createHash(algorithm === 'md4' ? 'sha256' : algorithm);
+  return originalCreateHash(algorithm === 'md4' ? 'sha256' : algorithm);
 };
 
 module.exports = {
