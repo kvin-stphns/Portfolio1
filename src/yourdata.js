@@ -133,7 +133,7 @@ export default {
 
   // About Secton --------------
   aboutParaZero:
-    "At the Intersection of Design and Technology",
+    "At the Intersection of Design and Technology 📍",
   aboutParaOne:
     "Hello, I'm Kevin Stephens – a digital alchemist where creativity meets code.",
   aboutParaTwo:
@@ -201,7 +201,8 @@ para:
 
   //   Contact Section --------------
 
-  contactSubHeading: "Ready to bring your vision to life? Let's connect and make digital magic happen.",
+  contactSubHeading: "Ready to bring your vision to life?",
+  contactSubHeadingTwo: "Let's connect and make digital magic happen. ✨",
   social: [
     // Add Or Remove The Link Accordingly
     { img: githubIcon, url: "https://github.com/kvin-stphns" },
